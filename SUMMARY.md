@@ -9,7 +9,7 @@
     * [1-1-4 前提条件](1-aws-cloud-practitioner-essentials-second-edition/10-xue-xi-lu-jing/114-qian-ti-tiao-jian.md)
     * [1-1-5 授课方式](1-aws-cloud-practitioner-essentials-second-edition/10-xue-xi-lu-jing/115-shou-ke-fang-shi.md)
     * [1-1-6 课程大纲](1-aws-cloud-practitioner-essentials-second-edition/10-xue-xi-lu-jing/116-ke-cheng-da-gang.md)
-* [1-2 云概念](12-yun-gai-nian/README.md)
-  * [1-2-1 云简介](12-yun-gai-nian/121-yun-jian-jie.md)
-  * [1-2-2 AWS 云简介](12-yun-gai-nian/122-aws-yun-jian-jie.md)
+  * [1-2 云概念](1-aws-cloud-practitioner-essentials-second-edition/12-yun-gai-nian/README.md)
+    * [1-2-1 云简介](1-aws-cloud-practitioner-essentials-second-edition/12-yun-gai-nian/121-yun-jian-jie.md)
+    * [1-2-2 AWS 云简介](1-aws-cloud-practitioner-essentials-second-edition/12-yun-gai-nian/122-aws-yun-jian-jie.md)
 
