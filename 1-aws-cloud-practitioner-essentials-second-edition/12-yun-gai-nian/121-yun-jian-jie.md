@@ -6,5 +6,5 @@ description: Introduction to Cloud
 
 ## 云计算定义
 
-通过 Internet 按需交付 IT 资源和应用程序，且按需付费。
+通过 Internet **按需交付** IT 资源和应用程序，且**按需付费**。
 
