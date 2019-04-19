@@ -13,5 +13,5 @@
     * [1-2-1 云简介](1-aws-cloud-practitioner-essentials-second-edition/12-yun-gai-nian/121-yun-jian-jie.md)
     * [1-2-2 AWS 云简介](1-aws-cloud-practitioner-essentials-second-edition/12-yun-gai-nian/122-aws-yun-jian-jie.md)
   * [1-3 AWS 核心服务基础知识](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/README.md)
-    * [1-3-1 Aaa](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa.md)
+    * [1-3-1 服务和类别概念](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa.md)
 
