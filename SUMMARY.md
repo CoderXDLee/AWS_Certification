@@ -17,5 +17,5 @@
       * [1-3-1-1 计算](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa/1311-ji-suan.md)
       * [1-3-1-2 存储](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa/1312-cun-chu.md)
       * [1-3-1-3 数据库](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa/1313-shu-ju-ku.md)
-      * [1-3-1-4 VPC](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa/1-3-1-4-vpc.md)
+      * [1-3-1-4 联网](1-aws-cloud-practitioner-essentials-second-edition/13-aws-he-xin-fu-wu-ji-chu-zhi-shi/1-3-1-aaa/1-3-1-4-vpc.md)
 
